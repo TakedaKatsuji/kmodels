@@ -1,0 +1,5 @@
+model: VGG16
+batch_size: 32
+lr: 0.001
+csv_path: ../datasets/COVID/covid_data.csv
+epoch: 200
