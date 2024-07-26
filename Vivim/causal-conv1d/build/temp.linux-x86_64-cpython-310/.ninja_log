@@ -1,0 +1,5 @@
+# ninja log v5
+0	2591	1721953515467652938	/home/katsujitakeda/project/study/kmodels/Vivim/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_update.o	89b62dfa2009e638
+0	5569	1721953518447652362	/home/katsujitakeda/project/study/kmodels/Vivim/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_fwd.o	ed1196049822e45
+0	11072	1721953523947651535	/home/katsujitakeda/project/study/kmodels/Vivim/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d.o	1c9a7f2550922d28
+0	14427	1721953527297651082	/home/katsujitakeda/project/study/kmodels/Vivim/causal-conv1d/build/temp.linux-x86_64-cpython-310/csrc/causal_conv1d_bwd.o	615db7f593469eed
